@@ -25,7 +25,7 @@ This project aims to solve a multi-class classification problem involving bird s
 
 
 ## Dataset
-The dataset can be downloaded from [https://drive.google.com/drive/folders/13yCz3Hc7zaBAsne1jffq6IKL4EEX41lv?usp=sharing](#) and should be unzipped into the project directory.
+The dataset can be downloaded from [https://drive.google.com/file/d/1O6WjlIHD2bqr3SN7zLat_uEbmaMkO6Qf/view?usp=sharing](#) and should be unzipped into the project directory.
 
 •⁠  ⁠*Train images:* ⁠ images/train ⁠
 •⁠  ⁠*Test images:* ⁠ images/test ⁠
